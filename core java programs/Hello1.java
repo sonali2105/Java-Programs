@@ -13,7 +13,7 @@ class Emp{
 		}
 }
 class Hello1 {
-		static public void main(String s[]) {
+		static public void main(String s[]) {     // main function for the Emp class
 		Emp a=new Emp();
 		Emp b=new Emp();
 		Emp c=new Emp();
